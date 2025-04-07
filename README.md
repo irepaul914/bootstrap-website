@@ -1,2 +1,5 @@
-# bootstrap-website
-A responsive website using bootstrap
+## Bootstrap-project
+
+A responsive website for a creative/design agency
+
+[Live Preview](https://dwinjnrbp.netlify.com/)
